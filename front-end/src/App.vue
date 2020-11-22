@@ -15,11 +15,14 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <div class = 'github'><a href="https://github.com/ktaeho22/lab4.git">github</a></div>
+
   </div>
 </div>
 </template>
 
 <style>
+
 html {
   box-sizing: border-box;
 }
